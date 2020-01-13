@@ -15,6 +15,7 @@
   border-radius: 8px;
   width: 20%;
   height: auto;
+  border-radius: 50%;
 }
 html {
   color: #222;
