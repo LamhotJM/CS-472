@@ -2,25 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3e18b26-2f4f-4719-991e-c99176bbd766" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/w1d1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/w1d2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/w1d2_2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/alone.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/happy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/header-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/header-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/recipe-img/background.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/recipe-img/background2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/recipe-img/pie.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/recipe-img/pie_bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/recipe-img/pie_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/recipe-img/silverware.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w1d2profile/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w1d2recepi/pie.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/normalize.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/w1d1.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/w1d1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/w1d2.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/w1d2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d2profile/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/w1d2profile/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578948347106</updated>
       <workItem from="1578948352440" duration="4165000" />
-      <workItem from="1579031666367" duration="10570000" />
+      <workItem from="1579031666367" duration="11124000" />
     </task>
     <servers />
   </component>

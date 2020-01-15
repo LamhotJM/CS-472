@@ -5,22 +5,6 @@ body {
   background-color: #5f6244;
 }
 
-.banner::before {
-  background-image: url(../img/header-bg.jpg);
-  background-position: center;
-  background-attachment: scroll;
-  background-repeat: no-repeat;
-  content: "";
-  display: block;
-  position: absolute;
-  margin-left: 0;
-  min-width: 100%;
-  min-height: 200px;
-  z-index: -1;
-  opacity: 0.5;
-  background-color: #77cc6d;
-}
-
 div.header img#avatar {
   width: 150px;
   margin: 10px 10px 10px 20px;
@@ -116,4 +100,20 @@ a {
 
 .summary{
   color: #fde05b;
+}
+
+.banner::before {
+  background-image: url(../img/header-bg.jpg);
+  background-position: center;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  content: "";
+  display: block;
+  position: absolute;
+  margin-left: 0;
+  min-width: 100%;
+  min-height: 200px;
+  z-index: -1;
+  opacity: 0.5;
+  background-color: #77cc6d;
 }
