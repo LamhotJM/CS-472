@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+  <style>
+    #outer {
+      border: 2px dashed black;
+      overflow: hidden;
+      padding: 10px;
+    }
+    .box {
+      width: 100px;
+      height: 100px;
+      background-color: black;
+      margin: 10px;
+      float: left;
+    }
+    .break {
+      clear: left;
+    }
+  </style>
+</head>
+<body>
+<div id="outer">
+  <div class="box"></div>
+  <div class="box"></div>
+
+  <div class="box"></div>
+  <div class="box break"></div>
+  <div class="box"></div>
+  <div class="box"></div>
+</div>
+
+</body>
+</html>

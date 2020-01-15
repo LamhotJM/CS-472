@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3e18b26-2f4f-4719-991e-c99176bbd766" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/practice/w1d3-border.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/w1d3-boxmodel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/w1d3-dimention.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/w1d3-exercise1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/w1d3-exercise2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/w1d3-exercise3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/w1d1.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/w1d1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/w1d2.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/w1d2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w1d2profile/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/w1d2profile/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -70,7 +73,8 @@
       <option name="presentableId" value="Default" />
       <updated>1578948347106</updated>
       <workItem from="1578948352440" duration="4165000" />
-      <workItem from="1579031666367" duration="11124000" />
+      <workItem from="1579031666367" duration="11458000" />
+      <workItem from="1579119566040" duration="5175000" />
     </task>
     <servers />
   </component>
@@ -85,6 +89,10 @@
       <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state x="491" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.816@0.23.1440.816" timestamp="1579052650075" />
+    <state x="430" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1579119567091">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="430" y="237" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1579119567091" />
     <state x="334" y="23" width="837" height="816" key="find.popup" timestamp="1579048024769">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
