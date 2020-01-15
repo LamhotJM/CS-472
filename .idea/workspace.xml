@@ -2,30 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3e18b26-2f4f-4719-991e-c99176bbd766" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/w1d1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/w1d2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/w1d2_2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/alone.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/happy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/header-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/header-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/recipe-img/background.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/recipe-img/background2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/recipe-img/pie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/recipe-img/pie_bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/recipe-img/pie_icon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/recipe-img/silverware.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w1d2profile/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w1d2recepi/pie.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WM8xFXEuA8Rldzk3wGF3AhrgJa" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Lamhot-Siagian-Profile_files" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -54,11 +84,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578948347106</updated>
-      <workItem from="1578948352440" duration="3784000" />
+      <workItem from="1578948352440" duration="4165000" />
+      <workItem from="1579031666367" duration="10570000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="491" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579052650075">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="491" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.816@0.23.1440.816" timestamp="1579052650075" />
+    <state x="334" y="23" width="837" height="816" key="find.popup" timestamp="1579048024769">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="334" y="23" width="837" height="816" key="find.popup/0.23.1440.816@0.23.1440.816" timestamp="1579048024769" />
   </component>
 </project>

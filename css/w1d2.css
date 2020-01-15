@@ -1,0 +1,119 @@
+body {
+  font-family:'Courier New',monospace;
+  font-size:13px;
+  margin: 0 auto;
+  background-color: #5f6244;
+}
+
+.banner::before {
+  background-image: url(../img/header-bg.jpg);
+  background-position: center;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  content: "";
+  display: block;
+  position: absolute;
+  margin-left: 0;
+  min-width: 100%;
+  min-height: 200px;
+  z-index: -1;
+  opacity: 0.5;
+  background-color: #77cc6d;
+}
+
+div.header img#avatar {
+  width: 150px;
+  margin: 10px 10px 10px 20px;
+  border-radius: 50%;
+}
+
+div.header h1 {
+  margin: 0 auto;
+  padding-left: 10px;
+  padding-bottom: 5px;
+}
+
+div.content {
+  min-height: 300px;
+  padding: 15px;
+}
+
+.labs li a {
+  text-decoration: none;
+}
+
+#moodSection ul {
+  list-style-type: none;
+  overflow: hidden;
+}
+
+#moodSection li {
+  float: left;
+  padding-right: 10px;
+}
+
+#moodSection ul li img {
+  width: 200px;
+}
+
+/* Footer stylesheet */
+.footer {
+  border-top: 1px solid #ddd;
+  overflow: hidden;
+  padding: 15px;
+  background-color: #77cc6d;
+}
+
+.footer-onBottom {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer .siteInfo {
+  float: left;
+}
+
+.footer .w3cValidator {
+  float: right;
+  padding-right: 30px;
+}
+
+#menu {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+}
+
+#menu a {
+  color: white;
+}
+
+.font-dm {
+  color: #fde05b;
+}
+.fav-movies
+{
+  color: blue;
+}
+
+a {
+  color: #ff2320;
+}
+
+.dropCap {
+  font-family: Georgia;
+  font-size: 20px;
+  line-height: 12px;
+  padding-bottom: 4px;
+  padding-left: 10px;
+}
+
+#idlamhot{
+  position:relative;
+  font-family: Raleway,sans-serif;
+}
+
+.summary{
+  color: #fde05b;
+}
