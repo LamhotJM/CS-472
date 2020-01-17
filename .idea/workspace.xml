@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3e18b26-2f4f-4719-991e-c99176bbd766" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/w1d3-exercise4d.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midterm_preparation/21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midterm_preparation/22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midterm_preparation/23.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midterm_preparation/quiz.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midterm_preparation/signup/Mid_and_ Final_exam links.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midterm_preparation/signup/State Management Quiz.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midterm_preparation/signup/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midterm_preparation/signup/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midterm_preparation/signup/signup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/responsive/media-query.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/w1d3-exercise4e.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/w1d3-exercise4f.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/w1d3-boxmodel.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/w1d3-boxmodel.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +26,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -70,7 +83,7 @@
       <updated>1578948347106</updated>
       <workItem from="1578948352440" duration="4165000" />
       <workItem from="1579031666367" duration="11458000" />
-      <workItem from="1579119566040" duration="7499000" />
+      <workItem from="1579119566040" duration="12632000" />
     </task>
     <servers />
   </component>
@@ -93,5 +106,9 @@
       <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state x="334" y="23" width="837" height="816" key="find.popup/0.23.1440.816@0.23.1440.816" timestamp="1579048024769" />
+    <state x="1484" y="163" width="670" height="676" key="search.everywhere.popup" timestamp="1579190348473">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="1484" y="163" width="670" height="676" key="search.everywhere.popup/0.23.1440.816@0.23.1440.816" timestamp="1579190348473" />
   </component>
 </project>
