@@ -2,20 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3e18b26-2f4f-4719-991e-c99176bbd766" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/midterm_preparation/21.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midterm_preparation/22.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midterm_preparation/23.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midterm_preparation/quiz.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midterm_preparation/signup/Mid_and_ Final_exam links.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midterm_preparation/signup/State Management Quiz.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midterm_preparation/signup/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midterm_preparation/signup/signup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midterm_preparation/signup/signup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/responsive/media-query.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/w1d3-exercise4e.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/w1d3-exercise4f.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/w1d3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/movie-img/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/movie-img/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/movie-img/bannerbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/movie-img/critic.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/movie-img/fresh.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/movie-img/overview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/movie-img/rbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/movie-img/rotten.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/movie-img/rottenbig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/movie-img/tmnt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/movie-img/w3c-css.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/movie-img/w3c-html.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/movie-img/w3c-xhtml.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w1d3movie/tmnt.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/w1d3-boxmodel.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/w1d3-boxmodel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/w1d2.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/w1d2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +29,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -50,11 +54,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/practice" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/practice" />
       <recent name="$PROJECT_DIR$/Lamhot-Siagian-Profile_files" />
     </key>
@@ -83,7 +88,7 @@
       <updated>1578948347106</updated>
       <workItem from="1578948352440" duration="4165000" />
       <workItem from="1579031666367" duration="11458000" />
-      <workItem from="1579119566040" duration="12632000" />
+      <workItem from="1579119566040" duration="15156000" />
     </task>
     <servers />
   </component>
@@ -102,10 +107,10 @@
       <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state x="430" y="237" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1579119567091" />
-    <state x="334" y="23" width="837" height="816" key="find.popup" timestamp="1579048024769">
+    <state x="334" y="23" width="837" height="816" key="find.popup" timestamp="1579227060835">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state x="334" y="23" width="837" height="816" key="find.popup/0.23.1440.816@0.23.1440.816" timestamp="1579048024769" />
+    <state x="334" y="23" width="837" height="816" key="find.popup/0.23.1440.816@0.23.1440.816" timestamp="1579227060835" />
     <state x="1484" y="163" width="670" height="676" key="search.everywhere.popup" timestamp="1579190348473">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
