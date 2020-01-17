@@ -79,23 +79,20 @@ footer, header{
 
 @media only screen and (min-width: 600px) {
   #item-one {
-    width: 30%;
-    min-height: 500px;
-    display: inline-flex;
     order: 1;
   }
 
   #item-two {
-    width: 40%;
-    min-height: 500px;
-    display: inline-flex;
     order: 2;
   }
 
   #item-three {
+    order: 3;
+  }
+
+  #item-one,#item-two,#item-three{
     width: 30%;
     min-height: 500px;
     display: inline-flex;
-    order: 3;
   }
 }
