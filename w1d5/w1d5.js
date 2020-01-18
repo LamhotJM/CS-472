@@ -41,15 +41,22 @@ function sum(a) {
   });
 
 }
+
+// reverse input string 
 function reverse(input) {
 
-  var ret= null;
+  /*let ret= null;
   for(let i=input.length-1; i>=0; i--)
   {
     ret+= input[i];
   }
 
-  return ret;
+  return ret;*/
+
+  const split = input.split("");
+  const reverse = split.reverse();
+  const combine = reverse.join("");
+  return combine;
 }
 
 function compareObjects(arr1, arr2) {
@@ -126,6 +133,8 @@ function testSuite () {
   /* Test Function 5a*/
   console.log("Expected output of multiply([1, 2, 3, 4]) is 24  " + myFunctionTest(24, multiply([1, 2, 3, 4])));
 
+  //reverse
+  console.log("Expected output of reverse(abc) is cba  " + myFunctionTest("cba", reverse("abc")))
 
 // testing for find longest word
   console.log("Expected output of findLongestWord([lam,hot,soa,siagian]) is 7 " +
