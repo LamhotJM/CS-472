@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3e18b26-2f4f-4719-991e-c99176bbd766" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/decorated.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/w1d6/function-vs-refrence.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/w1d6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w1d6a/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w1d6a/w1d5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w1d6b/css/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w1d6b/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w1d6b/javascript/w1d6.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/w1d5/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/w1d5/w1d5.js" beforeDir="false" afterPath="$PROJECT_DIR$/w1d5/w1d5.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +24,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -38,11 +48,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/W1D6/javascript" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/practice" />
       <recent name="$PROJECT_DIR$/Lamhot-Siagian-Profile_files" />
@@ -73,6 +87,8 @@
       <workItem from="1578948352440" duration="4165000" />
       <workItem from="1579031666367" duration="11458000" />
       <workItem from="1579119566040" duration="19618000" />
+      <workItem from="1579398371359" duration="108000" />
+      <workItem from="1579436573403" duration="3758000" />
     </task>
     <servers />
   </component>
@@ -87,17 +103,19 @@
       <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state x="491" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.816@0.23.1440.816" timestamp="1579052650075" />
-    <state x="430" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1579119567091">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state x="430" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1579477163159">
+      <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="430" y="237" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1579119567091" />
+    <state x="430" y="238" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1579477163159" />
     <state x="334" y="23" width="837" height="816" key="find.popup" timestamp="1579227060835">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state x="334" y="23" width="837" height="816" key="find.popup/0.23.1440.816@0.23.1440.816" timestamp="1579227060835" />
-    <state x="933" y="169" width="670" height="676" key="search.everywhere.popup" timestamp="1579233404187">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state x="933" y="170" width="670" height="681" key="search.everywhere.popup" timestamp="1579366074392">
+      <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="933" y="169" width="670" height="676" key="search.everywhere.popup/0.23.1440.816@0.23.1440.816" timestamp="1579233404187" />
+    <state x="933" y="170" width="670" height="681" key="search.everywhere.popup/0.23.1440.822@0.23.1440.822" timestamp="1579366074392" />
   </component>
 </project>
