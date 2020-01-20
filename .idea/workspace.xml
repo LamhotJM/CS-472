@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3e18b26-2f4f-4719-991e-c99176bbd766" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/decorated.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/w1d6/function-vs-refrence.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/w1d6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w1d6a/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w1d6a/w1d5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w1d6b/css/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w1d6b/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w1d6b/javascript/w1d6.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w1d5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/w1d5/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w1d5/w1d5.js" beforeDir="false" afterPath="$PROJECT_DIR$/w1d5/w1d5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w1d6b/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/w1d6b/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +78,7 @@
       <workItem from="1579031666367" duration="11458000" />
       <workItem from="1579119566040" duration="19618000" />
       <workItem from="1579398371359" duration="108000" />
-      <workItem from="1579436573403" duration="3758000" />
+      <workItem from="1579436573403" duration="4091000" />
     </task>
     <servers />
   </component>
