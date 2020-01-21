@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- Dear professor Keith,
+   I have learned how to use mocha writing unit testing,
+  first I was spent my time to find error assert on my IDE,
+  and I figure out through  let assert = chai.assert and
+  also error assert method, then I fixed using multiply5().toString();
+  This exercise takes time 1 hour.
+
+  Warm regards-->
+  <meta charset="UTF-8">
+  <title>Intro to Js</title>
+
+  <!-- importing mocha css -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mocha/3.2.0/mocha.css">
+  <!-- importing mocha -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mocha/3.2.0/mocha.js"></script>
+  <script>
+    mocha.setup('bdd'); // minimal setup
+  </script>
+  <!-- importing chai -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/chai/3.5.0/chai.js"></script>
+  <script>
+    // setup global
+    let assert = chai.assert;
+  </script>
+  <script src="js/javascript.js"></script>
+</head>
+<body>
+Look in the Chrome developer console to see the output. CTRL_SHIFT_J
+
+</p>
+<!-- update element, so the ui will change -->
+<div id="mocha"></div>
+<script>
+  mocha.run();
+</script>
+</body>
+</html>
