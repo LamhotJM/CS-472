@@ -1,6 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <!--
+  Dear Professor,
+  From this assignments I learned:
+  1. How to disable button using btn.disabled
+  2. How to increase speed using speed.checked ?
+  3. How to call animation function that triggers from select element using ANIMATIONS[animation.value];
+
+  I finish all this assignment in 2.30 hours, I bit
+  struggle to figure out how to call method from animation.js
+  and also how to increase the speed (turbo button)
+
+  Thank you,
+  -->
   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
   <title>ASCIImation</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -59,13 +72,13 @@
 </div>
 
 <script>
-  const startButton = document.getElementById("start");
-  const stopButton = document.getElementById("stop");
+  const startBtn = document.getElementById("start");
+  const stopBtn = document.getElementById("stop");
   const animation = document.getElementById("animation");
   const fontSize = document.getElementById("fontsize");
   const speed = document.getElementById("turbo");
-  startButton.onclick = onStartBtnClick;
-  stopButton.onclick = onStopBtnClick;
+  startBtn.onclick = onStartBtnClick;
+  stopBtn.onclick = onStopBtnClick;
   animation.onchange = animationChanged;
   fontSize.onchange = fontSizeChanged;
   turbo.onchange = speedChanged;

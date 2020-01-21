@@ -1,8 +1,8 @@
 "use strict";
 
 const DEFAULT_INTERVAL = 250;
-var animationInterval = DEFAULT_INTERVAL;
-var startAnimationIntervalId = null;
+var aniInterVal = DEFAULT_INTERVAL;
+var startAniInter = null;
 var text = null;
 var index = 0;
 var frames = null;
@@ -22,7 +22,7 @@ function fontSizeChanged() {
 
 function speedChanged() {
   var speed = document.getElementById("turbo");
-  animationInterval = speed.checked ? 50 : DEFAULT_INTERVAL;
+  aniInterVal = speed.checked ? 50 : DEFAULT_INTERVAL;
   var tmpText = text;
   startAnimationInterval();
   text = tmpText;
@@ -32,25 +32,25 @@ function startAnimationInterval() {
   var textarea = document.getElementById("text-area");
   text = textarea.value;
 
-  if (startAnimationIntervalId) {
-    clearInterval(startAnimationIntervalId);
+  if (startAniInter) {
+    clearInterval(startAniInter);
   }
   if (!frames) {
     return;
   }
-  startAnimationIntervalId = setInterval(function() {
+  startAniInter = setInterval(function() {
     textarea.value = frames[index++];
     if (index == frames.length) {
       index = 0;
     }
-  }, animationInterval);
+  }, aniInterVal);
 }
 
 function stopAnimationInterval() {
-  if (!startAnimationIntervalId) {
+  if (!startAniInter) {
     return;
   }
-  clearInterval(startAnimationIntervalId);
+  clearInterval(startAniInter);
   var textarea = document.getElementById("text-area");
   textarea.value = text;
 }
