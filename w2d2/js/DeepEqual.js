@@ -1,19 +1,30 @@
 (function() {
+"use strict"
 
+  /**
+   *
+   * @param left
+   * @param right
+   * @returns {boolean|undefined}
+   */
   function deepEqual(left, right) {
-    if (Object.keys(left).length !== Object.keys(right).length)
+    if (Object.keys(left).length !== Object.keys(right).length) {
       return false;
-    if (typeof (left) !== typeof (right))
+    }
+    if (typeof (left) !== typeof (right)) {
       return false;
+    }
 
     if (typeof (left) === "object") {
-      for ( let key in left) {
+      for(let key in left) {
         return deepEqual(left[key], right[key]);
       }
     } else {
-      if (left === right)
+      if (left === right) {
         return true;
+      }
       else
+      {
         return false;
     }
 
@@ -25,12 +36,10 @@
     },
     object : 2
   };
-
-
   describe("Test suite using mocha for deepEqual method", function () {
     it("deepEqual(obj, obj) -> true", function () {
       assert.equal(deepEqual(obj, obj), true)
-    })
+    });
 
     it("deepEqual(obj, notequal) -> false", function () {
       assert.equal(deepEqual(obj, {
@@ -38,10 +47,9 @@
           is : "hot"
         },
         object : 2
-      }), false)
-    })
-
+      }), false);
+    });
 
   });
-
+}
 }());

@@ -2,6 +2,12 @@
   "use strict";
 
 
+  /**
+   *
+   * @param list
+   * @param index
+   * @returns {null|*}
+   */
   function nth(list, index) {
     let i = 0;
     while (list != null && list.value != null) {
@@ -15,10 +21,16 @@
   }
 
 
+  /**
+   *
+   * @param list
+   * @param index
+   * @returns {*}
+   */
   function recNth(list, index) {
-    if (index === 0)
+    if (index === 0) {
       return list.value;
-
+    }
     return recNth(list.rest, --index);
 
   }

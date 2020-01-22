@@ -1,11 +1,15 @@
 (function() {
   "use strict";
 
+  /**
+   *
+   * @param arr
+   * @returns {{rest: null}}
+   */
+
   function arrayToList(arr) {
     let retVal = {
-
       rest : null
-
     };
 
     for (let i = 0; i < arr.length; i++) {
@@ -36,6 +40,12 @@
   };
   console.log();
 
+  /**
+   *
+   * @param list
+   * @returns {[]}
+   */
+
   function listToArray(list) {
 
     let arr = [];
@@ -51,7 +61,6 @@
   }
 
   console.log()
-
 
 
   describe("Test suite using mocha for ArrayToList and ListToArray", function () {

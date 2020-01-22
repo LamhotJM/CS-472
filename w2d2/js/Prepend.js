@@ -1,4 +1,11 @@
 (function () {
+ "use strict"
+  /**
+   *
+   * @param number
+   * @param list
+   * @returns {{}}
+   */
   function prepend(number, list) {
     let obj = {};
     obj.value = number;
@@ -10,8 +17,8 @@
 
   describe("Test suite using mocha for Prepend", function () {
     it("prepend(10, prepend(20, null))", function () {
-      assert.equal(prepend(10, prepend(20, null)).value, 10)
-    })
+      assert.equal(prepend(10, prepend(20, null)).value, 10);
+    });
 
   });
 
