@@ -29,8 +29,6 @@ function speedChanged() {
 }
 
 function startAnimationInterval() {
-  var textarea = document.getElementById("text-area");
-  text = textarea.value;
 
   if (startAniInter) {
     clearInterval(startAniInter);
@@ -38,12 +36,16 @@ function startAnimationInterval() {
   if (!frames) {
     return;
   }
-  startAniInter = setInterval(function() {
-    textarea.value = frames[index++];
-    if (index == frames.length) {
-      index = 0;
-    }
-  }, aniInterVal);
+  startAniInter = setInterval(display, aniInterVal);
+}
+
+function display() {
+  var textarea = document.getElementById("text-area");
+  text = textarea.value;
+  textarea.value = frames[index++];
+  if (index == frames.length) {
+    index = 0;
+  }
 }
 
 function stopAnimationInterval() {
@@ -65,7 +67,7 @@ function onStartBtnClick() {
 
   startAnimationInterval();
 }
-
+//
 function onStopBtnClick() {
   var startBtn = document.getElementById("start");
   startBtn.disabled = false;
@@ -77,3 +79,5 @@ function onStopBtnClick() {
   index = 0;
   stopAnimationInterval();
 }
+/*
+* */

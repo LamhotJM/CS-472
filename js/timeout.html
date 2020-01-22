@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<button onclick="delayMsg();">Click me</button>
+<span id="output"></span>
+
+<script>
+  function delayMsg() {
+    setTimeout(booyah,5000);
+    document.getElementById("output").innerHTML
+    ="Wait for it..";
+
+  }
+  function booyah() {
+    document.getElementById("output").innerHTML="BOOYAH!";
+
+  }
+</script>
+</body>
+</html>

@@ -2,9 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3e18b26-2f4f-4719-991e-c99176bbd766" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/js/no_overloading.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/reduce/reduce.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/spread.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/timeout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/basic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/hidden.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/javascript/window.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w2d1/js/exercise-1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w2d1/js/exercise-1/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w2d2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w2d2/js/Alist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w2d2/js/DeepEqual.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w2d2/js/NTH.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w2d2/js/Prepend.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w2d2/js/Reverse.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w1d6a/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/w1d6a/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w1d6b/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/w1d6b/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/vendor/jquery-3.4.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/vendor/jquery-3.4.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture-code/lecture09_examples/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/lecture-code/lecture09_examples/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/midterm_preparation/signup/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/midterm_preparation/signup/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w2d1/js/javascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/w2d1/js/javascript.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +60,6 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/W1D6/javascript" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/midterm_preparation" />
       <recent name="$PROJECT_DIR$/lecture-code" />
@@ -53,6 +67,20 @@
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/practice" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/w2d1/js/exercise-1" />
+      <recent name="$PROJECT_DIR$/W1D6/javascript" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Reverse.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/w2d2/js/Reverse.js" working-dir="$PROJECT_DIR$/w2d2/js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.Reverse.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -81,7 +109,8 @@
       <workItem from="1579119566040" duration="19618000" />
       <workItem from="1579398371359" duration="108000" />
       <workItem from="1579436573403" duration="5805000" />
-      <workItem from="1579563792086" duration="4908000" />
+      <workItem from="1579563792086" duration="5577000" />
+      <workItem from="1579579238238" duration="10251000" />
     </task>
     <servers />
   </component>
@@ -92,10 +121,31 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="491" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579052650075">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state x="491" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579667484929">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="491" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.816@0.23.1440.816" timestamp="1579052650075" />
+    <state x="491" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.823@0.23.1440.823" timestamp="1579667484929" />
+    <state x="314" y="23" key="CommitChangelistDialog2" timestamp="1579667495172">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="314" y="23" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1579667495172" />
+    <state width="1301" height="193" key="GridCell.Tab.0.bottom" timestamp="1579666092494">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1301" height="193" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1579666092494" />
+    <state width="1301" height="193" key="GridCell.Tab.0.center" timestamp="1579666092493">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1301" height="193" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1579666092493" />
+    <state width="1301" height="193" key="GridCell.Tab.0.left" timestamp="1579666092493">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1301" height="193" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1579666092493" />
+    <state width="1301" height="193" key="GridCell.Tab.0.right" timestamp="1579666092494">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1301" height="193" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1579666092494" />
     <state x="430" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1579567014334">
       <screen x="0" y="23" width="1440" height="816" />
     </state>

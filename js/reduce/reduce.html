@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<script>
+  var init = 0;
+  var sum = [{x:1}, {x:2}, {x:3}].reduce(
+    function (prev, next) {
+
+
+      return prev + next.x;
+
+    }, init
+  );
+  alert(sum);
+  console.log(sum);
+</script>
+
+</body>
+</html>
