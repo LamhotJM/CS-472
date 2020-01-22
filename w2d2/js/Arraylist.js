@@ -50,27 +50,37 @@
 
   }
 
-  console.log(listToArray({
-    value : 1,
-    rest : {
-      value : 2,
-      rest : {
-        value : 3,
-        rest : null
-      }
-    }
-
-  }).toString())
+  console.log()
 
 
 
   describe("Test suite using mocha for ArrayToList and ListToArray", function () {
-    it("reverseArray(C,B,A) ABC", function () {
+    it("arrayToList([ 1, 2, 3 ]", function () {
       assert.equal(arrayToList([ 1, 2, 3 ]).toString(),"[object Object]")
     })
 
-    it("reverseArrayInPlace(C,B,A) ABC", function () {
-      assert.equal(reverseArrayInPlace(["C","B","A"]).toString(), ["A","B","C"])
+    it("listToArray({\n" +
+      "        value : 1,\n" +
+      "        rest : {\n" +
+      "          value : 2,\n" +
+      "          rest : {\n" +
+      "            value : 3,\n" +
+      "            rest : null\n" +
+      "          }\n" +
+      "        }\n" +
+      "\n" +
+      "      } -> 123", function () {
+      assert.equal(listToArray({
+        value : 1,
+        rest : {
+          value : 2,
+          rest : {
+            value : 3,
+            rest : null
+          }
+        }
+
+      }).toString(),"1,2,3")
     })
 
   });
