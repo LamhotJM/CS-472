@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+<script>
+  "use strict";
+  (function () {
+    function Employee(id) {
+      this.id = id;
+      this.name = "Default";
+      this.employer = {name: "MUM"};
+    }
+
+    Employee.prototype.getName = function () {
+      return this.name;
+    }
+    Employee.prototype.getEmployerName = function () {
+      return this.employer.name;
+    }
+    var john = new Employee(980000);
+    console.log(john);
+  })();
+
+</script>
+</body>
+</html>

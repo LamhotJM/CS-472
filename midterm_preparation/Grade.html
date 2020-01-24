@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+<!--
+ makeGrade(array, array)
+ Write a function called makeGrade(array, array) Where the first array contains student
+objects, each student object has a name, and a answers array for that student. The second array
+contains the correct answers. Each correct answer will give the 10 points to a student. An
+incorrect answer gives zero points, a missing answer gives -5 points. Once the points are added
+for a student a letter grade should be assigned where 50 points is an “A”, 40 or above is a “B” and
+30 or above is a “C”, 20 or above is a “D”, below 20 is an “F”. The function should return an array
+containing objects with the student’s name and his/her grade.
+Examples:
+let students = [{name: "Jack", answers: ["a", "b", "c", "b", ""]},
+{name: "Lisa", answers: ["b", "b", "b", "b", "b"]},
+{name: "Rita", answers: ["a", "b", "c", "a", "d"]},
+{name: "Bob", answers: ["c", "d", "b", "a", "b"]}];
+makeGrade(students, ["a", "b", "c", "a", "d"]) // returns [{name: "Jack", grade: "D"}, {name: "Lisa", grade: "F"},
+{name: "Rita", grade: "A"}, {name: "Bob", grade: "F"}]
+makeGrade(students, ["b", "b", "b", "b", "b"]) // returns [{name: "Jack", grade: "F"}, {name: "Lisa", grade: "A"},
+{name: "Rita", grade: "F"}, {name: "Bob", grade: "D"}]
+makeGrade(students, ["a", "b", "c", "b", "b"]) // returns [{name: "Jack", grade: "C"}, {name: "Lisa", grade: "F"},
+{name: "Rita", grade: "C"}, {name: "Bob", grade: "F"}]
+
+-->
+<script>
+  /*var myGradesCalculate = (function () {
+
+    // Keep this variable private inside this closure scope
+    var myGrades = [93, 95, 88, 0, 55, 91];
+
+    var average = function() {
+      var total = myGrades.reduce(function(accumulator, item) {
+        return accumulator + item;
+      }, 0);
+
+      return'Your average grade is ' + total / myGrades.length + '.';
+    };
+
+    var failing = function() {
+      var failingGrades = myGrades.filter(function(item) {
+        return item < 70;
+      });
+
+      return 'You failed ' + failingGrades.length + ' times.';
+    };
+
+    // Explicitly reveal public pointers to the private functions
+    // that we want to reveal publicly
+
+    return {
+      average: average,
+      failing: failing
+    }
+  })();
+*/
+  //myGradesCalculate.failing(); // 'You failed 2 times.'
+  // myGradesCalculate.average(); // 'Your average grade is 70.33333333333333.'
+
+  let students = [{name: "Jack", answers: ["a", "b", "c", "b", ""]},
+    {name: "Lisa", answers: ["b", "b", "b", "b", "b"]},
+    {name: "Rita", answers: ["a", "b", "c", "a", "d"]},
+    {name: "Bob", answers: ["c", "d", "b", "a", "b"]}];
+
+
+  // makeGrade(students, ["a", "b", "c", "a", "d"]) // returns [{name: "Jack", grade: "D"}, {name: "Lisa", grade: "F"},
+  //{name: "Rita", grade: "A"}, {name: "Bob", grade: "F"}]
+  // makeGrade(students, ["b", "b", "b", "b", "b"]) // returns [{name: "Jack", grade: "F"}, {name: "Lisa", grade: "A"},
+  //{name: "Rita", grade: "F"}, {name: "Bob", grade: "D"}]
+  // makeGrade(students, ["a", "b", "c", "b", "b"]) // returns [{name: "Jack", grade: "C"}, {name: "Lisa", grade: "F"},
+  //{name: "Rita", grade: "C"}, {name: "Bob", grade: "F"}]
+  var printArray = function (arr, grades) {
+    var point = 0;
+    for (var i = 0; i < arr.length; i++) {
+      console.log(arr[i].name + arr[i].answers);
+      for (let j = 0; j< grades.length; j++) {
+        if (grades[j] === "") {
+          point += 0;
+        } else if (arr[i].answers[j] === grades[j]) {
+          point += 10;
+        } else {
+          point -= 5;
+        }
+      }
+      console.log("Grade : " +arr[i].name + " point: " + point)
+
+      //50 points is an “A”, 40 or above is a “B” and
+    // 30 or above is a “C”, 20 or above is a “D”, below 20 is an “F”.
+
+    }
+
+  };
+
+
+  printArray(students, ["a", "b", "c", "a", "d"]);
+
+
+</script>
+</body>
+</html>

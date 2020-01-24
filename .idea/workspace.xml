@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3e18b26-2f4f-4719-991e-c99176bbd766" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/jshint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/quiz-js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midterm_preparation/18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midterm_preparation/20.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midterm_preparation/Grade.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midterm_preparation/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midterm_preparation/music.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midterm_preparation/myGrade.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w2d2/js/Arraylist.js" beforeDir="false" afterPath="$PROJECT_DIR$/w2d2/js/Arraylist.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w2d2/js/DeepEqual.js" beforeDir="false" afterPath="$PROJECT_DIR$/w2d2/js/DeepEqual.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w2d2/js/NTH.js" beforeDir="false" afterPath="$PROJECT_DIR$/w2d2/js/NTH.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w2d2/js/Prepend.js" beforeDir="false" afterPath="$PROJECT_DIR$/w2d2/js/Prepend.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w2d2/js/Reverse.js" beforeDir="false" afterPath="$PROJECT_DIR$/w2d2/js/Reverse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/midterm_preparation/qustion10.css" beforeDir="false" afterPath="$PROJECT_DIR$/midterm_preparation/qustion10.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/midterm_preparation/qustion19.html" beforeDir="false" afterPath="$PROJECT_DIR$/midterm_preparation/qustion19.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -52,7 +54,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/midterm_preparation" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Linters.JSHint" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -105,7 +107,7 @@
       <workItem from="1579398371359" duration="108000" />
       <workItem from="1579436573403" duration="5805000" />
       <workItem from="1579563792086" duration="5577000" />
-      <workItem from="1579579238238" duration="13343000" />
+      <workItem from="1579579238238" duration="21605000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1579667801767</created>
@@ -155,10 +157,10 @@
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="1301" height="193" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1579666092494" />
-    <state x="240" y="44" key="SettingsEditor" timestamp="1579711427273">
+    <state x="240" y="44" key="SettingsEditor" timestamp="1579712632891">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state x="240" y="44" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1579711427273" />
+    <state x="240" y="44" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1579712632891" />
     <state x="430" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1579567014334">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
