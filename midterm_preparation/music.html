@@ -25,12 +25,7 @@
     }
 
     function showNextTrack () {
-      console.log('My next track is', songList[0]);
-    }
-
-    // Let's hide this function
-    function loadSong() {
-      filesystem.loadNextSong();
+      console.log('My next track is', songList);
     }
 
     return {
@@ -43,10 +38,9 @@
 
   musicModule.playMusic(); // 'Im playing the next song!'
   musicModule.pauseMusic(); // 'I'm paused!'
-  musicModule.showUpNext(); // 'The next track is California Girls'
-  musicModule.loadSong(); // error: not a function
+  musicModule.showUpNext(); // 'The next track is California Girls'\musicModule.loadSong(); // error: not a function
 
-  musicModule.songList.push('White Rabbit'); // undefined
+//  musicModule.songList.push('White Rabbit'); // undefined
 </script>
 </body>
 </html>

@@ -61,11 +61,8 @@ makeGrade(students, ["a", "b", "c", "b", "b"]) // returns [{name: "Jack", grade:
   //myGradesCalculate.failing(); // 'You failed 2 times.'
   // myGradesCalculate.average(); // 'Your average grade is 70.33333333333333.'
 
-  let students = [{name: "Jack", answers: ["a", "b", "c", "b", ""]},
-    {name: "Lisa", answers: ["b", "b", "b", "b", "b"]},
-    {name: "Rita", answers: ["a", "b", "c", "a", "d"]},
-    {name: "Bob", answers: ["c", "d", "b", "a", "b"]}];
 
+  // {name: "Rita", answers: ["a", "b", "c", "a", "d"]},
 
   // makeGrade(students, ["a", "b", "c", "a", "d"]) // returns [{name: "Jack", grade: "D"}, {name: "Lisa", grade: "F"},
   //{name: "Rita", grade: "A"}, {name: "Bob", grade: "F"}]
@@ -73,30 +70,58 @@ makeGrade(students, ["a", "b", "c", "b", "b"]) // returns [{name: "Jack", grade:
   //{name: "Rita", grade: "F"}, {name: "Bob", grade: "D"}]
   // makeGrade(students, ["a", "b", "c", "b", "b"]) // returns [{name: "Jack", grade: "C"}, {name: "Lisa", grade: "F"},
   //{name: "Rita", grade: "C"}, {name: "Bob", grade: "F"}]
-  var printArray = function (arr, grades) {
+
+
+  function makeGrade(arr, grades) {
+    var new_arr = [];
     var point = 0;
     for (var i = 0; i < arr.length; i++) {
-      console.log(arr[i].name + arr[i].answers);
-      for (let j = 0; j< grades.length; j++) {
-        if (grades[j] === "") {
-          point += 0;
-        } else if (arr[i].answers[j] === grades[j]) {
-          point += 10;
-        } else {
-          point -= 5;
-        }
+      for (let j = 0; j < grades.length; j++) {
+        calculate(j);
       }
-      console.log("Grade : " +arr[i].name + " point: " + point)
+      convertGrade(arr[i].name, point);
+    }
 
-      //50 points is an “A”, 40 or above is a “B” and
-    // 30 or above is a “C”, 20 or above is a “D”, below 20 is an “F”.
+    function calculate(j) {
+      if (grades[j] === "") {
+        point += 0;
+      } else if (arr[i].answers[j] === grades[j]) {
+        point += 10;
+      } else {
+        point -= 5;
+      }
 
     }
 
+    function convertGrade(name,point) {
+      switch (true) {
+        case point < 10:
+          grade = "F";
+          break;
+        case point < 20:
+          grade = "D";
+          break;
+        case point < 30:
+          grade = "C";
+          break;
+        case point < 40:
+          grade = "B";
+          break;
+        case point <= 50:
+          grade = "A";
+          break;
+      }
+      new_arr.push({name: name, grade: grade});
+    }
+    return new_arr;
   };
 
-
-  printArray(students, ["a", "b", "c", "a", "d"]);
+  let students = [{name: "Jack", answers: ["a", "b", "c", "b", ""]},
+    {name: "Lisa", answers: ["b", "b", "b", "b", "b"]},
+    {name: "Rita", answers: ["a", "b", "c", "a", "d"]},
+    {name: "Bob", answers: ["c", "d", "b", "a", "b"]}];
+  // {name: "Rita", answers: ["a", "b", "c", "a", "d"]},
+  console.log(makeGrade(students, ["a", "b", "c", "a", "d"]));
 
 
 </script>

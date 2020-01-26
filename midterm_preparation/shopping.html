@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+  var ShoppingCart = (function () {
+
+    var  items = [];
+
+    function printItemData(item)
+    {
+      console.log("printing data of product "+ item);
+    }
+    function printAll()
+    {
+      console.log(this.items);
+    }
+
+    function  addItem(item) {
+      items.push(item);
+      printItemData(item)
+      console.log(items);
+    }
+    function removeItem(item)
+    {
+      items.splice(items.indexOf(item),1);
+      printItemData(item)
+      console.log(items);
+    }
+    return {
+      addItem:addItem,
+      removeItem:removeItem,
+      printData:printAll
+    };
+  })();
+
+  console.log(ShoppingCart.printData);
+
+</script>
+
+</body>
+</html>
