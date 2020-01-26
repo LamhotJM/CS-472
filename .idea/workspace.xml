@@ -2,24 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3e18b26-2f4f-4719-991e-c99176bbd766" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/final_prepartion/inheritance/exercise1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midterm_preparation/animation/animations.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midterm_preparation/animation/ascii.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midterm_preparation/animation/ascii.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midterm_preparation/animation/ascii.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midterm_preparation/calculator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midterm_preparation/shopping.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/pactice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/practice1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/practice2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/practice3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/practice4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLinters/jshint.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLinters/jshint.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midterm_preparation/20.html" beforeDir="false" afterPath="$PROJECT_DIR$/midterm_preparation/20.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midterm_preparation/Grade.html" beforeDir="false" afterPath="$PROJECT_DIR$/midterm_preparation/Grade.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midterm_preparation/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/midterm_preparation/layout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midterm_preparation/music.html" beforeDir="false" afterPath="$PROJECT_DIR$/midterm_preparation/music.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3d1/pactice.html" beforeDir="false" afterPath="$PROJECT_DIR$/w3d1/practiceSlide17.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3d1/practice3.js" beforeDir="false" afterPath="$PROJECT_DIR$/w3d1/practice3.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,8 +62,8 @@
       <recent name="$PROJECT_DIR$/W1D6/javascript" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.pactice.html">
-    <configuration name="pactice.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/lamhotjm.github.io/w3d1/pactice.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.practiceSlide17.html">
+    <configuration name="practiceSlide17.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/lamhotjm.github.io/w3d1/practiceSlide17.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="Reverse.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/w2d2/js/Reverse.js" working-dir="$PROJECT_DIR$/w2d2/js">
@@ -89,7 +74,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.pactice.html" />
+        <item itemvalue="JavaScript Debug.practiceSlide17.html" />
         <item itemvalue="Node.js.practice1.js" />
         <item itemvalue="Node.js.Reverse.js" />
       </list>
@@ -124,7 +109,7 @@
       <workItem from="1579436573403" duration="5805000" />
       <workItem from="1579563792086" duration="5577000" />
       <workItem from="1579579238238" duration="21605000" />
-      <workItem from="1580005414932" duration="3594000" />
+      <workItem from="1580005414932" duration="4313000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1579667801767</created>

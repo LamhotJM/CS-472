@@ -10,6 +10,9 @@ let rabbit = {
 
 rabbit.eat();
 
+alert(animal.full);
+alert(rabbit.full);
+
 /*
 We have rabbit inheriting from animal.
 
