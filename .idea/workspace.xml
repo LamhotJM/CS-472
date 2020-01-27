@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3e18b26-2f4f-4719-991e-c99176bbd766" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/w3d1/part1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/part2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w3d1/pactice.html" beforeDir="false" afterPath="$PROJECT_DIR$/w3d1/practiceSlide17.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w3d1/practice3.js" beforeDir="false" afterPath="$PROJECT_DIR$/w3d1/practice3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3d1/practice1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3d1/practice2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3d1/practice3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3d1/practice4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3d1/practiceSlide17.html" beforeDir="false" afterPath="$PROJECT_DIR$/w3d1/part1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,8 +67,8 @@
       <recent name="$PROJECT_DIR$/W1D6/javascript" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.practiceSlide17.html">
-    <configuration name="practiceSlide17.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/lamhotjm.github.io/w3d1/practiceSlide17.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.part1.html">
+    <configuration name="part1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/lamhotjm.github.io/w3d1/part1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="Reverse.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/w2d2/js/Reverse.js" working-dir="$PROJECT_DIR$/w2d2/js">
@@ -74,7 +79,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.practiceSlide17.html" />
+        <item itemvalue="JavaScript Debug.part1.html" />
         <item itemvalue="Node.js.practice1.js" />
         <item itemvalue="Node.js.Reverse.js" />
       </list>
@@ -109,7 +114,7 @@
       <workItem from="1579436573403" duration="5805000" />
       <workItem from="1579563792086" duration="5577000" />
       <workItem from="1579579238238" duration="21605000" />
-      <workItem from="1580005414932" duration="4313000" />
+      <workItem from="1580005414932" duration="7887000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1579667801767</created>
@@ -144,25 +149,25 @@
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="314" y="23" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1579667801417" />
-    <state width="1301" height="193" key="GridCell.Tab.0.bottom" timestamp="1579980340171">
+    <state width="1146" height="193" key="GridCell.Tab.0.bottom" timestamp="1580094438930">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
-    <state width="1301" height="193" key="GridCell.Tab.0.bottom/0.23.1440.820@0.23.1440.820" timestamp="1579980340171" />
+    <state width="1146" height="193" key="GridCell.Tab.0.bottom/0.23.1440.820@0.23.1440.820" timestamp="1580094438930" />
     <state width="1301" height="193" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1579666092494" />
-    <state width="1301" height="193" key="GridCell.Tab.0.center" timestamp="1579980340170">
+    <state width="1146" height="193" key="GridCell.Tab.0.center" timestamp="1580094438929">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
-    <state width="1301" height="193" key="GridCell.Tab.0.center/0.23.1440.820@0.23.1440.820" timestamp="1579980340170" />
+    <state width="1146" height="193" key="GridCell.Tab.0.center/0.23.1440.820@0.23.1440.820" timestamp="1580094438929" />
     <state width="1301" height="193" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1579666092493" />
-    <state width="1301" height="193" key="GridCell.Tab.0.left" timestamp="1579980340169">
+    <state width="1146" height="193" key="GridCell.Tab.0.left" timestamp="1580094438927">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
-    <state width="1301" height="193" key="GridCell.Tab.0.left/0.23.1440.820@0.23.1440.820" timestamp="1579980340169" />
+    <state width="1146" height="193" key="GridCell.Tab.0.left/0.23.1440.820@0.23.1440.820" timestamp="1580094438927" />
     <state width="1301" height="193" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1579666092493" />
-    <state width="1301" height="193" key="GridCell.Tab.0.right" timestamp="1579980340170">
+    <state width="1146" height="193" key="GridCell.Tab.0.right" timestamp="1580094438929">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
-    <state width="1301" height="193" key="GridCell.Tab.0.right/0.23.1440.820@0.23.1440.820" timestamp="1579980340170" />
+    <state width="1146" height="193" key="GridCell.Tab.0.right/0.23.1440.820@0.23.1440.820" timestamp="1580094438929" />
     <state width="1301" height="193" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1579666092494" />
     <state x="208" y="121" key="SettingsEditor" timestamp="1580047192209">
       <screen x="0" y="23" width="1440" height="820" />
