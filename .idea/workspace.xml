@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3e18b26-2f4f-4719-991e-c99176bbd766" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/W2D6/e3ClassSyntax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W2D6/e3FunctionConstructor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W2D6/e3ObjectCreate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W2D6/part2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w3d1/part1.html" beforeDir="false" afterPath="$PROJECT_DIR$/W2D6/part1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w3d1/part1.js" beforeDir="false" afterPath="$PROJECT_DIR$/W2D6/part1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w3d1/part2.html" beforeDir="false" afterPath="$PROJECT_DIR$/W2D6/part2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W2D6/part2.html" beforeDir="false" afterPath="$PROJECT_DIR$/W2D6/part2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +112,7 @@
       <workItem from="1579436573403" duration="5805000" />
       <workItem from="1579563792086" duration="5577000" />
       <workItem from="1579579238238" duration="21605000" />
-      <workItem from="1580005414932" duration="8782000" />
+      <workItem from="1580005414932" duration="13142000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1579667801767</created>

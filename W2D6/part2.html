@@ -1,19 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Title</title>
+
+  <!-- Dear professor Keith,
+
+I spent 3 hours to finish all these assignments, from part 2 assignment, I have learned about
+how to design inheritance using class syntax, function constructor, and object create, and
+also designing unit testing using mocha for testing a class (method and constructor).
+
+ Warm regards,
+
+  Lamhot Siagian-->
+  <meta charset="UTF-8">
+  <title>Intro to Js</title>
+
+  <!-- importing mocha css -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mocha/3.2.0/mocha.css">
+  <!-- importing mocha -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mocha/3.2.0/mocha.js"></script>
+  <script>
+    mocha.setup('bdd'); // minimal setup
+  </script>
+  <!-- importing chai -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/chai/3.5.0/chai.js"></script>
+  <script>
+    // setup global
+    let assert = chai.assert;
+  </script>
+  <script src="part2.js"></script>
+  <script src="e3ClassSyntax.js"></script>
+  <script src="e3FunctionConstructor.js"></script>
+  <script src="e3ObjectCreate.js"></script>
 </head>
 <body>
-<!--
+Look in the Chrome developer console to see the output. CTRL_SHIFT_J
 
- Exercises
-➢Changing “prototype”
-➢ exercise involving the F.prototype property
-➢Create an object with the same constructor
-➢ exercise involving preserving the .constructor link in the [[Prototype]] object
-
--->
-
+</p>
+<!-- update element, so the ui will change -->
+<div id="mocha"></div>
+<script>
+  mocha.run();
+</script>
 </body>
 </html>
