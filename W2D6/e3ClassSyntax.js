@@ -3,9 +3,6 @@
 
 
     class Person {
-      name;
-      age;
-
       constructor(name, age) {
         this.name = name;
         this.age = age;
@@ -21,8 +18,6 @@
     }
 
     class Student extends Person {
-      field;
-
       constructor(name, age, field) {
         super(name, age);
         this.field = field;
@@ -34,8 +29,6 @@
     }
 
     class Professor extends Person {
-      department;
-
       constructor(name, age, department) {
         super(name, age);
         this.department = department;
