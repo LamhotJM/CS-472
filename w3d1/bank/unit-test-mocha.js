@@ -1,4 +1,5 @@
 (function() {
+  "use strict";
   const accObj = new Account(223);
   describe("Account class test", function() {
     context("add balance function test", function() {

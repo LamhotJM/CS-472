@@ -2,36 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3e18b26-2f4f-4719-991e-c99176bbd766" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/final_prepartion/classSyntax/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/function_expression/1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/Account.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/Bank.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/CheckingAccount.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/SavingAccount.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/unit-test-mocha.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/class-basic-syntax/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/class-basic-syntax/task1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/class-extends-object/ObjectRabbit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/class-extends-object/ObjectRabbit2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/class-extends-object/Rabbit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/class-extends-object/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/class-inheritance/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/class-inheritance/task2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/extended/clock.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/extended/extended-clock.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/extended/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/in-build-class/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/in-build-class/powerArray.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/mixin/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/mixin/mixin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/privated/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/static/Article.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/static/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/w1d1.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/w1d1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/w1d2.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/w1d2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3d1/bank/Bank.js" beforeDir="false" afterPath="$PROJECT_DIR$/w3d1/bank/Bank.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3d1/bank/CheckingAccount.js" beforeDir="false" afterPath="$PROJECT_DIR$/w3d1/bank/CheckingAccount.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3d1/bank/SavingAccount.js" beforeDir="false" afterPath="$PROJECT_DIR$/w3d1/bank/SavingAccount.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3d1/bank/unit-test-mocha.js" beforeDir="false" afterPath="$PROJECT_DIR$/w3d1/bank/unit-test-mocha.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +119,7 @@
       <workItem from="1579579238238" duration="21605000" />
       <workItem from="1580005414932" duration="13491000" />
       <workItem from="1580131948504" duration="252000" />
-      <workItem from="1580153703409" duration="9984000" />
+      <workItem from="1580153703409" duration="10179000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1579667801767</created>
