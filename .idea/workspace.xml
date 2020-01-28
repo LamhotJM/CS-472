@@ -2,11 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3e18b26-2f4f-4719-991e-c99176bbd766" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/jquery/basic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/selector.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/w3d2-class/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/w3d2-class/q3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/w3d2-class/q5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/Account.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/Account.js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/Bank.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/Bank.js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/CheckingAccount.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/CheckingAccount.js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/SavingAccount.js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/SavingsAccount.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-Bold-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-Bold-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-Bold-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-BoldItalic-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-BoldItalic-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-BoldItalic-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-Italic-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-Italic-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-Italic-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-Light-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-Light-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-Light-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-LightItalic-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-LightItalic-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-LightItalic-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-Regular-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-Regular-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-Regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/scripts/linenumber.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/scripts/prettify/Apache-License-2.0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/scripts/prettify/lang-css.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/scripts/prettify/prettify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/styles/jsdoc-default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/styles/prettify-jsdoc.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/styles/prettify-tomorrow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/quizz/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w3d1/bank/Bank.js" beforeDir="false" afterPath="$PROJECT_DIR$/w3d1/bank/Bank.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w3d1/bank/CheckingAccount.js" beforeDir="false" afterPath="$PROJECT_DIR$/w3d1/bank/CheckingAccount.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w3d1/bank/SavingAccount.js" beforeDir="false" afterPath="$PROJECT_DIR$/w3d1/bank/SavingAccount.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w3d1/bank/unit-test-mocha.js" beforeDir="false" afterPath="$PROJECT_DIR$/w3d1/bank/unit-test-mocha.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +156,8 @@
       <workItem from="1579579238238" duration="21605000" />
       <workItem from="1580005414932" duration="13491000" />
       <workItem from="1580131948504" duration="252000" />
-      <workItem from="1580153703409" duration="10179000" />
+      <workItem from="1580153703409" duration="11081000" />
+      <workItem from="1580211903723" duration="4178000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1579667801767</created>
@@ -154,36 +192,36 @@
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="314" y="23" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1579667801417" />
-    <state width="961" height="193" key="GridCell.Tab.0.bottom" timestamp="1580179623966">
+    <state width="961" height="2" key="GridCell.Tab.0.bottom" timestamp="1580190502310">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
-    <state width="961" height="193" key="GridCell.Tab.0.bottom/0.23.1440.820@0.23.1440.820" timestamp="1580179623966" />
+    <state width="961" height="2" key="GridCell.Tab.0.bottom/0.23.1440.820@0.23.1440.820" timestamp="1580190502310" />
     <state width="1301" height="193" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1579666092494" />
-    <state width="961" height="193" key="GridCell.Tab.0.center" timestamp="1580179623965">
+    <state width="961" height="2" key="GridCell.Tab.0.center" timestamp="1580190502310">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
-    <state width="961" height="193" key="GridCell.Tab.0.center/0.23.1440.820@0.23.1440.820" timestamp="1580179623965" />
+    <state width="961" height="2" key="GridCell.Tab.0.center/0.23.1440.820@0.23.1440.820" timestamp="1580190502310" />
     <state width="1301" height="193" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1579666092493" />
-    <state width="961" height="193" key="GridCell.Tab.0.left" timestamp="1580179623965">
+    <state width="961" height="2" key="GridCell.Tab.0.left" timestamp="1580190502310">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
-    <state width="961" height="193" key="GridCell.Tab.0.left/0.23.1440.820@0.23.1440.820" timestamp="1580179623965" />
+    <state width="961" height="2" key="GridCell.Tab.0.left/0.23.1440.820@0.23.1440.820" timestamp="1580190502310" />
     <state width="1301" height="193" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1579666092493" />
-    <state width="961" height="193" key="GridCell.Tab.0.right" timestamp="1580179623966">
+    <state width="961" height="2" key="GridCell.Tab.0.right" timestamp="1580190502310">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
-    <state width="961" height="193" key="GridCell.Tab.0.right/0.23.1440.820@0.23.1440.820" timestamp="1580179623966" />
+    <state width="961" height="2" key="GridCell.Tab.0.right/0.23.1440.820@0.23.1440.820" timestamp="1580190502310" />
     <state width="1301" height="193" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1579666092494" />
     <state x="208" y="121" key="SettingsEditor" timestamp="1580047192209">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
     <state x="208" y="121" key="SettingsEditor/0.23.1440.820@0.23.1440.820" timestamp="1580047192209" />
     <state x="240" y="44" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1579712632891" />
-    <state x="430" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1580153703368">
+    <state x="430" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1580212214087">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
     <state x="430" y="238" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1579567014334" />
-    <state x="430" y="239" key="com.intellij.ide.util.TipDialog/0.23.1440.820@0.23.1440.820" timestamp="1580153703368" />
+    <state x="430" y="239" key="com.intellij.ide.util.TipDialog/0.23.1440.820@0.23.1440.820" timestamp="1580212214087" />
     <state x="430" y="238" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1579477163159" />
     <state x="334" y="23" width="837" height="816" key="find.popup" timestamp="1579227060835">
       <screen x="0" y="23" width="1440" height="816" />
