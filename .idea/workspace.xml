@@ -2,9 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3e18b26-2f4f-4719-991e-c99176bbd766" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/final_prepartion/classSyntax/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/function_expression/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/Account.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/Bank.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/CheckingAccount.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/SavingAccount.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/bank/unit-test-mocha.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/class-basic-syntax/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/class-basic-syntax/task1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/class-extends-object/ObjectRabbit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/class-extends-object/ObjectRabbit2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/class-extends-object/Rabbit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/class-extends-object/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/class-inheritance/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/class-inheritance/task2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/extended/clock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/extended/extended-clock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/extended/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/in-build-class/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/in-build-class/powerArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/mixin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/mixin/mixin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/privated/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/static/Article.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d1/static/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W2D6/e3ClassSyntax.js" beforeDir="false" afterPath="$PROJECT_DIR$/W2D6/e3ClassSyntax.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W2D6/part1.html" beforeDir="false" afterPath="$PROJECT_DIR$/W2D6/part1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/w1d1.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/w1d1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/w1d2.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/w1d2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +42,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -46,24 +72,26 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/midterm_preparation" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/w3d1/class-basic-syntax" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Linters.JSHint" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/midterm_preparation" />
-      <recent name="$PROJECT_DIR$/midterm_preparation/animation" />
-      <recent name="$PROJECT_DIR$/lecture-code" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/img" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/w3d1/class-inheritance" />
+      <recent name="$PROJECT_DIR$/w3d1/class-basic-syntax" />
       <recent name="$PROJECT_DIR$/w2d1/js/exercise-1" />
       <recent name="$PROJECT_DIR$/W1D6/javascript" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/w3d1/class-basic-syntax" />
+      <recent name="$PROJECT_DIR$/w2d4" />
+      <recent name="$PROJECT_DIR$/midterm_preparation" />
+      <recent name="$PROJECT_DIR$/midterm_preparation/animation" />
+      <recent name="$PROJECT_DIR$/lecture-code" />
+    </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.part1.html">
+  <component name="RunManager" selected="Node.js.task2.js">
     <configuration name="part1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/lamhotjm.github.io/w3d1/part1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -73,8 +101,12 @@
     <configuration name="practice1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/w3d1/practice1.js" working-dir="$PROJECT_DIR$/W2D6">
       <method v="2" />
     </configuration>
+    <configuration name="task2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/w3d1/class-inheritance/task2.js" working-dir="$PROJECT_DIR$/w3d1">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.task2.js" />
         <item itemvalue="JavaScript Debug.part1.html" />
         <item itemvalue="Node.js.practice1.js" />
         <item itemvalue="Node.js.Reverse.js" />
@@ -112,7 +144,7 @@
       <workItem from="1579579238238" duration="21605000" />
       <workItem from="1580005414932" duration="13491000" />
       <workItem from="1580131948504" duration="252000" />
-      <workItem from="1580153703409" duration="424000" />
+      <workItem from="1580153703409" duration="9984000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1579667801767</created>
@@ -147,25 +179,25 @@
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="314" y="23" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1579667801417" />
-    <state width="1146" height="193" key="GridCell.Tab.0.bottom" timestamp="1580102998749">
+    <state width="961" height="193" key="GridCell.Tab.0.bottom" timestamp="1580179623966">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
-    <state width="1146" height="193" key="GridCell.Tab.0.bottom/0.23.1440.820@0.23.1440.820" timestamp="1580102998749" />
+    <state width="961" height="193" key="GridCell.Tab.0.bottom/0.23.1440.820@0.23.1440.820" timestamp="1580179623966" />
     <state width="1301" height="193" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1579666092494" />
-    <state width="1146" height="193" key="GridCell.Tab.0.center" timestamp="1580102998748">
+    <state width="961" height="193" key="GridCell.Tab.0.center" timestamp="1580179623965">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
-    <state width="1146" height="193" key="GridCell.Tab.0.center/0.23.1440.820@0.23.1440.820" timestamp="1580102998748" />
+    <state width="961" height="193" key="GridCell.Tab.0.center/0.23.1440.820@0.23.1440.820" timestamp="1580179623965" />
     <state width="1301" height="193" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1579666092493" />
-    <state width="1146" height="193" key="GridCell.Tab.0.left" timestamp="1580102998748">
+    <state width="961" height="193" key="GridCell.Tab.0.left" timestamp="1580179623965">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
-    <state width="1146" height="193" key="GridCell.Tab.0.left/0.23.1440.820@0.23.1440.820" timestamp="1580102998748" />
+    <state width="961" height="193" key="GridCell.Tab.0.left/0.23.1440.820@0.23.1440.820" timestamp="1580179623965" />
     <state width="1301" height="193" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1579666092493" />
-    <state width="1146" height="193" key="GridCell.Tab.0.right" timestamp="1580102998749">
+    <state width="961" height="193" key="GridCell.Tab.0.right" timestamp="1580179623966">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
-    <state width="1146" height="193" key="GridCell.Tab.0.right/0.23.1440.820@0.23.1440.820" timestamp="1580102998749" />
+    <state width="961" height="193" key="GridCell.Tab.0.right/0.23.1440.820@0.23.1440.820" timestamp="1580179623966" />
     <state width="1301" height="193" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1579666092494" />
     <state x="208" y="121" key="SettingsEditor" timestamp="1580047192209">
       <screen x="0" y="23" width="1440" height="820" />
@@ -182,9 +214,10 @@
       <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state x="334" y="23" width="837" height="816" key="find.popup/0.23.1440.816@0.23.1440.816" timestamp="1579227060835" />
-    <state x="933" y="170" width="670" height="681" key="search.everywhere.popup" timestamp="1579366074392">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state x="933" y="161" width="670" height="746" key="search.everywhere.popup" timestamp="1580181309637">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="933" y="161" width="670" height="746" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1580181309637" />
     <state x="933" y="169" width="670" height="676" key="search.everywhere.popup/0.23.1440.816@0.23.1440.816" timestamp="1579233404187" />
     <state x="933" y="170" width="670" height="681" key="search.everywhere.popup/0.23.1440.822@0.23.1440.822" timestamp="1579366074392" />
   </component>

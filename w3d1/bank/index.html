@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- Dear professor Keith,
+
+ Assigment 1, i spent 2 hours to analylize:
+ Dear Professor Keith Levi
+
+- hasOwnProperty -> method capability to give the information
+rather than  one object own that property or not. if we extends
+from object or class, in order to give the true, then we need
+to use super keyword on child constructor
+
+- To declare static method and variable we use keyword static,
+and if we want to call then we call the class name , then static method
+or variable name
+
+- private method only can be accessed from inside and private method use #,
+f we inherit from CoffeeMachine, then we’ll have no direct access to #waterAmount.
+We’ll need to rely on waterAmount getter/setter machine.waterAmount = 100;
+
+- Extending built-in classes interesting since, it might be possible
+we want to modify build in class, to do that we can inherit for instance
+PowerArray inherits from the native Array
+
+- Instead of, if we have one class, then we create new object,
+if we want to know wether new object is instance of one class
+we can used keyword instanceof, ie: rabbit instanceof Rabbit
+
+- I also learn about mixin, that really useful if we have
+more than one function that needs to combile.
+
+Assigment 2 :
+-  I learn about extends keyword
+-  How to override string method
+-  I Spent 2 hours to finish task II
+- Completing unit test using mocha
+
+Link : lamhotjm.github.io/w3d1/bank/index.html
+
+
+  Warm regards-->
+  <meta charset="UTF-8">
+  <title>Intro to Js</title>
+
+  <!-- importing mocha css -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mocha/3.2.0/mocha.css">
+  <!-- importing mocha -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mocha/3.2.0/mocha.js"></script>
+  <script>
+    mocha.setup('bdd'); // minimal setup
+  </script>
+  <!-- importing chai -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/chai/3.5.0/chai.js"></script>
+  <script>
+    // setup global
+    let assert = chai.assert;
+  </script>
+  <script src="Account.js"></script>
+  <script src="Bank.js"></script>
+  <script src="SavingAccount.js"></script>
+  <script src="CheckingAccount.js"></script>
+  <script src="unit-test-mocha.js"></script>
+
+</head>
+<body>
+Look in the Chrome developer console to see the output. CTRL_SHIFT_J
+
+</p>
+<!-- update element, so the ui will change -->
+<div id="mocha"></div>
+<script>
+  mocha.run();
+</script>
+</body>
+</html>
