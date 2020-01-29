@@ -2,48 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3e18b26-2f4f-4719-991e-c99176bbd766" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jquery/basic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/selector.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz/w3d2-class/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz/w3d2-class/q3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz/w3d2-class/q5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/Account.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/Account.js.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/Bank.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/Bank.js.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/CheckingAccount.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/CheckingAccount.js.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/SavingAccount.js.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/SavingsAccount.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-Bold-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-Bold-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-Bold-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-BoldItalic-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-BoldItalic-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-BoldItalic-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-Italic-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-Italic-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-Italic-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-Light-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-Light-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-Light-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-LightItalic-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-LightItalic-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-LightItalic-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-Regular-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-Regular-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/fonts/OpenSans-Regular-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/scripts/linenumber.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/scripts/prettify/Apache-License-2.0.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/scripts/prettify/lang-css.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/scripts/prettify/prettify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/styles/jsdoc-default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/styles/prettify-jsdoc.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/bank/out/styles/prettify-tomorrow.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d1/quizz/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d2/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d2/maze.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d2/out/fonts/OpenSans-Bold-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d2/out/fonts/OpenSans-Bold-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d2/out/fonts/OpenSans-Bold-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d2/out/fonts/OpenSans-BoldItalic-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d2/out/fonts/OpenSans-BoldItalic-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d2/out/fonts/OpenSans-BoldItalic-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d2/out/fonts/OpenSans-Italic-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d2/out/fonts/OpenSans-Italic-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d2/out/fonts/OpenSans-Italic-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d2/out/fonts/OpenSans-Light-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d2/out/fonts/OpenSans-Light-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d2/out/fonts/OpenSans-Light-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d2/out/fonts/OpenSans-LightItalic-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d2/out/fonts/OpenSans-LightItalic-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d2/out/fonts/OpenSans-LightItalic-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d2/out/fonts/OpenSans-Regular-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d2/out/fonts/OpenSans-Regular-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d2/out/fonts/OpenSans-Regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d2/out/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d2/out/scripts/linenumber.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d2/out/scripts/prettify/Apache-License-2.0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d2/out/scripts/prettify/lang-css.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d2/out/scripts/prettify/prettify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d2/out/styles/jsdoc-default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d2/out/styles/prettify-jsdoc.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w3d2/out/styles/prettify-tomorrow.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery/selector.html" beforeDir="false" afterPath="$PROJECT_DIR$/jquery/selector.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +43,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
-        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -84,6 +74,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="js.last.introduce.type" value="VAR" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/w3d1/class-basic-syntax" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Linters.JSHint" />
@@ -157,7 +148,7 @@
       <workItem from="1580005414932" duration="13491000" />
       <workItem from="1580131948504" duration="252000" />
       <workItem from="1580153703409" duration="11081000" />
-      <workItem from="1580211903723" duration="4178000" />
+      <workItem from="1580211903723" duration="11133000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1579667801767</created>

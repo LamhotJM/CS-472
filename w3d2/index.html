@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<!--
+
+Dear Professor Keith Levi,PhD.
+
+requirements:
+
+- Must have a good comment ✓
+- maze works for success and failure and reset ✓
+- protected namespace ✓
+- unobtrusive javascript and styling ✓
+- use strict ✓
+
+ 1. I spent 2 hours to finish all these assignments, try jQuery quiz (10 min)
+ 2. I learn how to use ternary operation in javascript return status==1? win():lose();
+ 3. At the first time, I just confused, how to figure out, if the mouse out from the box, then it turns out when I read API documentation (the suitable function is mouseleave_event)
+ 4. How to use .removeClass and addClass method are interesting, since never used before.
+ 5. I am trying to implement JS DOC that professor suggest in class : https://lamhotjm.github.io/w3d2/out/index.html
+
+ Warm regards,
+
+ Lamhot Siagian
+-->
+
+<head>
+  <title>Maze Games!!!!!</title>
+
+  <link href="css.css" type="text/css" rel="stylesheet" />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+
+  <!--  -->
+  <script src="maze.js" type="text/javascript"></script>
+</head>
+
+<body>
+<h1>The Amazing Mouse Maze!</h1>
+<h2 id="status">Click the "S" to begin.</h2>
+
+<!-- line shape -->
+<div id="maze">
+  <div id="start">S</div>
+  <div class="boundary" id="boundary1"></div>
+  <div class="boundary"></div>
+  <div class="boundary"></div>
+  <div class="boundary"></div>
+  <div class="boundary"></div>
+  <div id="end">E</div>
+</div>
+
+<p>
+  The object of this game is to guide the mouse cursor through the start area and get to the end area.  Be sure to avoid the walls:
+</p>
+
+<div class="boundary example"></div>
+
+<p>
+  Good luck!
+</p>
+</body>
+</html>
