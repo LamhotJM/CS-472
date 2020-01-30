@@ -2,7 +2,7 @@
  "use strict";
   // is the same with $(document).ready(function){});
   $(function () {
-    let animationIntervalId = null;
+    let interval = null;
     let circles = $("#circles");
 
     $('#btnStart').on('click', ()  => {
@@ -60,7 +60,7 @@
      * @returns {number}
      */
     function startAnimation(objCircle) {
-      animationIntervalId = setInterval(
+      interval = setInterval(
         () => {
           objCircle.css({
             width: (objCircle.width() + parseInt($('#amount').val())) + 'px',
@@ -72,7 +72,7 @@
           });
         }, parseInt($('#rate').val())
       );
-      return animationIntervalId;
+      return interval;
     }
 
     $('#btnClear').on('click', () => {
