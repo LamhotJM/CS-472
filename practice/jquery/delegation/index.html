@@ -1,0 +1,24 @@
+<html>
+<body>
+<div id="container">
+  <ul id="list">
+    <li><a href="http://domain1.com">Item #1</a></li>
+    <li><a href="/local/path/1">Item #2</a></li>
+    <li><a href="/local/path/2">Item #3</a></li>
+    <li><a href="http://domain4.com">Item #4</a></li>
+  </ul>
+</div>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"
+        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+        crossorigin="anonymous"></script>
+<script>
+  $(document).ready(function () {
+    $("#list a").on("click",function (event) {
+      event.preventDefault();
+      console.log($(this).text());
+    });
+
+  });
+</script>
+</body>
+</html>

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Clean Screen By Lamhot</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous" />
+  <link rel="stylesheet" href="css.css" />
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js" type="text/javascript"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js" type="text/javascript"></script>
+  <script src="bootstrap-input-spinner.js" type="text/javascript"></script>
+  <script src="logic.js" type="text/javascript"></script>
+</head>
+<!--
+http://lamhotjm.github.io/
+Dear Professor Keith Levi, PhD,
+
+I spent 3 hours how to figure out all those thing in this assigments,
+here the detail, how I finish all of them:
+
+1. Designing form that consist of 4 input type text and 2 button (submit and reset) -> https://www.w3schools.com/bootstrap/bootstrap_buttons.asp
+2. Implement bootstrap to make it more intuitive (using class css form-control of bootstrap for input text,
+and btn btn-success and danger for button) -> https://getbootstrap.com/docs/4.0/components/forms/
+3. I also use JS library spinner, to increase / decrease value in from, in order to make user easy to
+fill the form. -> https://www.jqueryscript.net/form/Input-Spinner-Plugin-Bootstrap-4.html
+4. Try to use $(function () {}); instead of $(document).ready(function(){});  -> https://api.jquery.com/ready/
+5. Implement delegation function $('#btnStart').on('click', ()=> {});
+6. Implement how to adding new element to current element using circle.append(circle);
+7. I spent my time also to figure out , reduce opacity of circle, it turns out using simple
+technic reduce = value - 0.015; and if reach 0 -> return false.
+
+Warm regards,
+
+Lamhot Siagian
+
+-->
+<body>
+<h5>Clean Screen By Lamhot</h5>
+
+<div id="setting">
+  <div class="row">
+    <div class="col-md-3">
+      <label for="width">Width: </label><input type="text" id="width" value="50" class="form-control" Class="form-control form-fixer"/>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-3">
+      <label for="amount">Growth Amount: </label><input type="text" id="amount" value="10" class="form-control" />
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-3">
+      <label for="rate">Grow Rate: </label><input type="text" id="rate" value="250" class="form-control" />
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-3">
+      <label for="noOfCircles">No Of Circles</label><input type="text" class="form-control" id="noOfCircles" value="3" placeholder="No Of Circles" />
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-3">
+      <input type="button" value="Start" class="btn btn-success" id="btnStart" />
+      <input type="button" value="Reset" class="btn btn-danger" id="btnClear" />
+    </div>
+  </div>
+
+  <div id="circles">
+  </div>
+</div>
+<script>
+  $("input[type='text']").InputSpinner({
+
+    // button text/icons
+    decrementButton: "<strong>-</strong>",
+    incrementButton: "<strong>+</strong>",
+
+    // class of input group
+    groupClass: "input-group-spinner",
+
+    // button class
+    buttonsClass: "btn-outline-secondary",
+
+    // button width
+    buttonsWidth: "2.5em",
+
+    // text alignment
+    textAlign: "center",
+
+    // delay in milliseconds
+    autoDelay: 500,
+
+    // interval in milliseconds
+    autoInterval: 100,
+
+    // boost after these steps
+    boostThreshold: 15,
+
+    // boost multiplier
+    boostMultiplier: "auto",
+
+    // detects the local from `navigator.language`, if null
+    locale: null
+
+  });
+</script>
+</body>
+</html>

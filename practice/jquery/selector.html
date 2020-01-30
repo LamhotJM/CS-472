@@ -8,18 +8,18 @@
 
 <div id="emailContainer">
   <div class="panel">
-    …
+    div
   </div>
   <div class="panel">
-    …
+    div
   </div>
 </div>
 <div id="ordersContainer">
   <div class="panel">
-    …
+    div
   </div>
   <div class="panel">
-    …
+    dive
   </div>
 </div>
 <script src="https://code.jquery.com/jquery-3.4.1.min.js"
@@ -29,7 +29,7 @@
 
 <script>
   var emailDiv =$('emailContainer');
-  console.log(emailDiv[0]);
+  //console.log(emailDiv[0]);
 
   let elem = document.getElementById("emailContainer'");
   elem = $(elem);
@@ -37,7 +37,12 @@
 
   let elems = document.querySelectorAll(".panel");
   elems = $(elems);
-  console.log("he" +elem);
+ // console.log("he" +elem);
+
+  $("div").each(function (idx, e) {
+    console.log(" hello e : " + e + "  idx : "+ idx );
+
+  });
 </script>
 
 

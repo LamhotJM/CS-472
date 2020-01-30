@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+<script>
+  let personProto = {eat: alert("eating")};
+  let bob={};
+  bob.__proto__ = personProto.prototype;
+  bob.name = "Bob";
+  bob.eat();
+
+  function f() {eat: alert("eating")};
+  let bob = {};
+  bob.__proto__ = Function.prototype);
+  bob.name = "Bob";
+  bob.eat();
+ // bob.__proto__ = Function.prototype;
+  //alert(f.__proto__ == Function.prototype); // true
+  //alert(f.__proto__.__proto__ == Object.prototype); // true
+//f.eat;
+
+
+
+</script>
+
+</body>
+</html>
