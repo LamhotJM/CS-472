@@ -2,54 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3e18b26-2f4f-4719-991e-c99176bbd766" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/inheritance/prototype.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/jquery/delegate.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/jquery/delegation/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/jquery/event/keydown.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/jquery/get-text.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/jquery/prepend.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/jquery/preventDefault.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/jquery/text.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d3/bootstrap-input-spinner.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d3/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w3d3/logic.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/final_prepartion/classSyntax/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/final_prepartion/classSyntax/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/final_prepartion/inheritance/exercise1.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/final_prepartion/inheritance/exercise1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/jquery/basic.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/selector.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/jquery/selector.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midterm_preparation/18.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/midterm_preparation/18.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midterm_preparation/20.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/midterm_preparation/20.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midterm_preparation/21.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/midterm_preparation/21.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midterm_preparation/22.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/midterm_preparation/22.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midterm_preparation/23.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/midterm_preparation/23.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midterm_preparation/Grade.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/midterm_preparation/Grade.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midterm_preparation/animation/animations.js" beforeDir="false" afterPath="$PROJECT_DIR$/practice/midterm_preparation/animation/animations.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midterm_preparation/animation/ascii.css" beforeDir="false" afterPath="$PROJECT_DIR$/practice/midterm_preparation/animation/ascii.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midterm_preparation/animation/ascii.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/midterm_preparation/animation/ascii.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midterm_preparation/animation/ascii.js" beforeDir="false" afterPath="$PROJECT_DIR$/practice/midterm_preparation/animation/ascii.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midterm_preparation/calculator.js" beforeDir="false" afterPath="$PROJECT_DIR$/practice/midterm_preparation/calculator.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midterm_preparation/contenvsborderbox.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/midterm_preparation/contenvsborderbox.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midterm_preparation/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/midterm_preparation/layout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midterm_preparation/music.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/midterm_preparation/music.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midterm_preparation/myGrade.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/midterm_preparation/myGrade.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midterm_preparation/question10.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/midterm_preparation/question10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midterm_preparation/quiz.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/midterm_preparation/quiz.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midterm_preparation/qustion10.css" beforeDir="false" afterPath="$PROJECT_DIR$/practice/midterm_preparation/qustion10.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midterm_preparation/qustion17.css" beforeDir="false" afterPath="$PROJECT_DIR$/practice/midterm_preparation/qustion17.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midterm_preparation/qustion17.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/midterm_preparation/qustion17.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midterm_preparation/qustion19.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/midterm_preparation/qustion19.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midterm_preparation/shopping.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/midterm_preparation/shopping.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midterm_preparation/signup/Mid_and_ Final_exam links.docx" beforeDir="false" afterPath="$PROJECT_DIR$/practice/midterm_preparation/signup/Mid_and_ Final_exam links.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midterm_preparation/signup/State Management Quiz.docx" beforeDir="false" afterPath="$PROJECT_DIR$/practice/midterm_preparation/signup/State Management Quiz.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midterm_preparation/signup/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/practice/midterm_preparation/signup/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midterm_preparation/signup/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/midterm_preparation/signup/signup.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midterm_preparation/signup/signup.js" beforeDir="false" afterPath="$PROJECT_DIR$/practice/midterm_preparation/signup/signup.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midterm_preparation/sope.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/midterm_preparation/sope.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quiz/w3d2-class/q5.html" beforeDir="false" afterPath="$PROJECT_DIR$/quiz/w3d2-class/q5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/w3d1/bank/unit-test-mocha.js" beforeDir="false" afterPath="$PROJECT_DIR$/w3d1/bank/unit-test-mocha.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w3d3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/w3d3/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +119,7 @@
       <workItem from="1580005414932" duration="13491000" />
       <workItem from="1580131948504" duration="252000" />
       <workItem from="1580153703409" duration="11081000" />
-      <workItem from="1580211903723" duration="25703000" />
+      <workItem from="1580211903723" duration="25889000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1579667801767</created>
