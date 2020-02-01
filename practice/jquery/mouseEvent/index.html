@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id ="target">
+  <div id="inner">
+    Mobe the mouse over me!!
+  </div>
+  Move the scroll bar!
+</div>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"
+        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+        crossorigin="anonymous">
+
+  $(function () {
+    $("#target").on('mousemove', showCoords);
+
+  });
+
+  function showCoords(event) {
+
+    $("#inner").html(
+      "page: c" + event.pageX + ", " + event.pageY+ ";
+    );
+  }
+</script>
+
+</body>
+</html>
