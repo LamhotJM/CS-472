@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<div class="container">
+  <div class="inner">Hello</div>
+  <div class="inner2">Good</div>
+</div>
+<div class="container">
+  <div class="inner">Hello</div>
+  <div class="inner2">Good</div>
+</div>
+</body>
+<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+
+<script>
+  $(".container").each(function(idx, e) {
+// do stuff with e
+    console.log(idx  +" e : "  +e);
+  });
+</script>
+
+</body>
+</html>

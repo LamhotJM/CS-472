@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<ul id="myid"> ok
+  <li class="special"> okey</li>
+  <li> not okey</li>
+</ul>
+<script>
+  const $elem = $("#myid");
+  const specials = $("li.special", $elem); //or
+
+  const notspecial = $elem.find("li.special");
+  // elem.find("li.special");
+  console.log(specials.text());
+  console.log(notspecial.text())
+
+  const elem = $("#myid");
+  const elems = $('input');
+  const x= $("#myid").parent();
+  console.log(x.text());
+</script>
+
+</body>
+</html>

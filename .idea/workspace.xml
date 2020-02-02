@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3e18b26-2f4f-4719-991e-c99176bbd766" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/jquery/mouseEvent/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/inheritance/clas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/inheritance/objectCreate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/jquery/CSS2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/jquery/context.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/jquery/each.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/jquery/parent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/jquery/parent2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/jquery/sibling.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W2D6/e3ClassSyntax.js" beforeDir="false" afterPath="$PROJECT_DIR$/w2d6/e3ClassSyntax.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W2D6/e3FunctionConstructor.js" beforeDir="false" afterPath="$PROJECT_DIR$/w2d6/e3FunctionConstructor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W2D6/e3ObjectCreate.js" beforeDir="false" afterPath="$PROJECT_DIR$/w2d6/e3ObjectCreate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W2D6/part1.html" beforeDir="false" afterPath="$PROJECT_DIR$/w2d6/part1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W2D6/part1.js" beforeDir="false" afterPath="$PROJECT_DIR$/w2d6/part1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W2D6/part2.html" beforeDir="false" afterPath="$PROJECT_DIR$/w2d6/part2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W2D6/part2.js" beforeDir="false" afterPath="$PROJECT_DIR$/w2d6/part2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/jquery/prepend.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/jquery/prepend.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,6 +130,9 @@
       <workItem from="1580211903723" duration="27571000" />
       <workItem from="1580400599027" duration="733000" />
       <workItem from="1580435491733" duration="1280000" />
+      <workItem from="1580516245965" duration="502000" />
+      <workItem from="1580591425732" duration="1538000" />
+      <workItem from="1580596105144" duration="5472000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1579667801767</created>
@@ -201,20 +204,22 @@
     </state>
     <state x="208" y="121" key="SettingsEditor/0.23.1440.820@0.23.1440.820" timestamp="1580047192209" />
     <state x="240" y="44" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1579712632891" />
-    <state x="430" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1580401137387">
-      <screen x="0" y="23" width="1440" height="820" />
+    <state x="430" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1580596128324">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="430" y="238" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1579567014334" />
     <state x="430" y="239" key="com.intellij.ide.util.TipDialog/0.23.1440.820@0.23.1440.820" timestamp="1580401137387" />
     <state x="430" y="238" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1579477163159" />
+    <state x="430" y="241" key="com.intellij.ide.util.TipDialog/0.23.1440.826@0.23.1440.826" timestamp="1580596128324" />
     <state x="334" y="23" width="837" height="816" key="find.popup" timestamp="1579227060835">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state x="334" y="23" width="837" height="816" key="find.popup/0.23.1440.816@0.23.1440.816" timestamp="1579227060835" />
-    <state x="113" y="173" key="new project wizard" timestamp="1580401410263">
-      <screen x="0" y="23" width="1440" height="820" />
+    <state x="113" y="173" key="new project wizard" timestamp="1580575626165">
+      <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="113" y="173" key="new project wizard/0.23.1440.820@0.23.1440.820" timestamp="1580401410263" />
+    <state x="113" y="173" key="new project wizard/0.23.1440.822@0.23.1440.822" timestamp="1580575626165" />
     <state x="113" y="174" key="new project wizard/0.23.1440.826@0.23.1440.826" timestamp="1580336550512" />
     <state x="933" y="161" width="670" height="746" key="search.everywhere.popup" timestamp="1580181309637">
       <screen x="0" y="0" width="1440" height="900" />

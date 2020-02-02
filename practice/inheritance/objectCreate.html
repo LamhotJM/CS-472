@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<script>
+
+  let animal = {
+    eats: true
+  };
+  function Dog(name) {
+    this.name = name;
+  }
+
+  Dog.prototype = animal;
+  let snoopy = new Dog("Snoopy");
+  alert( snoopy.eats ); // true
+
+  //modify
+
+  let animal = {
+    eats: true
+  };
+  let dog = Object.create(animal);
+  dog.name="Snoopy";
+  alert( dog.eats ); // true
+
+
+
+</script>
+
+</body>
+</html>

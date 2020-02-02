@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<SCRIPT>
+  $("#ex2 span.special").each(function(i, elem) {
+    var img = $("<img>")
+      .attr("src"
+        , "../images/laughing_man.jpg")
+      .attr("alt", "laughing man")
+      .css("vertical-align", "middle")
+      .css("border", "2px solid black")
+      .click(function() {
+        alert("clicked");
+      });
+    $(elem).prepend(img);
+  });
+
+
+  $("img").css("color", "red");
+  $("img").attr("id", "themainarea");
+  $("img").addClass("special");
+
+  // The implictly returned jQuery object allows for chaining of method calls.
+  $("img") // good jQuery style
+    .css("color", "red")
+    .addClass("special")
+    .attr("src"
+      , "foo.png");
+  // we could chain further right here
+
+  function okayClick() {
+    this.style.color = "red";
+    this.className = "highlighted";
+  }
+  .highlighted { color: red;
+
+
+    document.getElementById("myid").innerHTML +=
+      "<p style='color: red; " +
+      "margin-left: 50px;' " +
+      "onclick='myOnClick();'>" +
+      "A paragraph!</p>";
+</SCRIPT>
+
+</body>
+</html>

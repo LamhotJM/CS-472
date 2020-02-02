@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+  // function User(name) {
+  //   this.name = name;}
+  //
+  // User.prototype.sayHi = function() {
+  //   alert(this.name);};
+  //
+  // let user = new User("John");
+  // user.sayHi();
+
+
+  //convert to class
+  class User{
+    constructor(name) {
+      this.name= name;
+    }
+
+    sayHi()
+    {
+      alert(this.name);
+    }
+  }
+
+  let obj = new User("hello");
+  obj.sayHi();
+</script>
+
+</body>
+</html>

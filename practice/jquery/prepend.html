@@ -15,4 +15,80 @@
   $(".inner").prepend("<p> test</p>");
   $(".inner").append("<p> test 3</p>");
 </script>
+
+<script>
+  const personProto = {eat: alert("eating")};
+  const bob = Object.create(personProto);
+  bob.name = "Bob";
+  bob.eat();
+
+  /* rewrite the code to use __proto__ instead of Object.create */
+  const personProto = {eat: alert("eating")};
+  const bob = {};
+  bob.__proto__ = personProto;
+  bob.name = "Bob";
+  bob.eat();
+
+  /* rewrite the code to use a constructor function */
+  function Person(name) {
+    this.name = name;
+  }
+
+  const personProto = {eat: alert("eating")};
+  Person.prototype = personProto;
+  const bob = new Person("Bob");
+  bob.eat();
+
+  //rewrite the code to use Class
+  class Person {
+    constructor(name) {
+      this.name = name;
+    }
+
+    eat() {
+      alert("eating")
+    }
+  }
+
+  const bob = new Person("Bob");
+  bob.eat();
+
+
+  foo(x){}
+  ;
+ function baz(y)
+  {alert(x);
+  alert(y);
+  } ;
+
+  const boo = foo(5);
+
+  let animal = {
+    eats: true
+  };
+  function Dog(name) {
+    this.name = name;
+
+  }
+
+  Dog.prototype = animal;
+  let snoopy = new Dog("Snoopy");
+  alert( snoopy.eats ); // true
+  let animal = {
+
+    eats: true
+
+  };
+
+
+  function Dog(name) {
+
+    this.name = name;
+  }
+
+  let snoopy = new Dog("Snoopy");
+
+  snoopy.__proto__ = animal;
+  alert( snoopy.eats ); // true
+</script>
 </html>
