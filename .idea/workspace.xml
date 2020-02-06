@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3e18b26-2f4f-4719-991e-c99176bbd766" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/event/9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/event/this.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/event/this2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/event/this3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/inheritance/7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/javascript/namespace.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/jquery/foreach.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w4d1/parsing/ccs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w4d1/parsing/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w4d1/parsing/js.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/w4d1/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/inheritance/clas.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/inheritance/clas.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/jquery/basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/jquery/basic.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +125,7 @@
       <workItem from="1580516245965" duration="502000" />
       <workItem from="1580591425732" duration="1538000" />
       <workItem from="1580596105144" duration="8525000" />
-      <workItem from="1580878676974" duration="2417000" />
+      <workItem from="1580878676974" duration="2702000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1579667801767</created>
