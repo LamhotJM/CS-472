@@ -2,16 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3e18b26-2f4f-4719-991e-c99176bbd766" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/inheritance/clas.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/inheritance/objectCreate.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/jquery/CSS2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/jquery/context.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/jquery/each.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/jquery/parent.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/jquery/parent2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/jquery/sibling.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/event/9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/event/this.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/event/this2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/event/this3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/inheritance/7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/javascript/namespace.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/jquery/foreach.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w4d1/parsing/ccs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w4d1/parsing/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w4d1/parsing/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/w4d1/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/jquery/prepend.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/jquery/prepend.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/inheritance/clas.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/inheritance/clas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/jquery/basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/practice/jquery/basic.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,9 +26,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -58,19 +63,19 @@
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Linters.JSHint" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/w4d1/parsing" />
+      <recent name="$PROJECT_DIR$/practice/jquery" />
+      <recent name="$PROJECT_DIR$/practice" />
+      <recent name="$PROJECT_DIR$/w3d1/class-inheritance" />
+      <recent name="$PROJECT_DIR$/w3d1/class-basic-syntax" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/w3d3" />
       <recent name="$PROJECT_DIR$/w3d1/class-basic-syntax" />
       <recent name="$PROJECT_DIR$/w2d4" />
       <recent name="$PROJECT_DIR$/midterm_preparation" />
       <recent name="$PROJECT_DIR$/midterm_preparation/animation" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/practice/jquery" />
-      <recent name="$PROJECT_DIR$/practice" />
-      <recent name="$PROJECT_DIR$/w3d1/class-inheritance" />
-      <recent name="$PROJECT_DIR$/w3d1/class-basic-syntax" />
-      <recent name="$PROJECT_DIR$/w2d1/js/exercise-1" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.task2.js">
@@ -132,7 +137,8 @@
       <workItem from="1580435491733" duration="1280000" />
       <workItem from="1580516245965" duration="502000" />
       <workItem from="1580591425732" duration="1538000" />
-      <workItem from="1580596105144" duration="5472000" />
+      <workItem from="1580596105144" duration="8525000" />
+      <workItem from="1580878676974" duration="2417000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1579667801767</created>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+<SCRIPT>
+  $.each([52, 97], function(index, value) {
+    console.log(index + ": " + value);
+  });
+  //0: 52
+  //1: 97
+  var obj = {
+    "course": "CS472",
+    "name": "WAP"
+  };
+  $.each(obj, function(idx, key, value) {
+    console.log(idx, key + ": " + value);
+  });
+</SCRIPT>
+</body>
+</html>

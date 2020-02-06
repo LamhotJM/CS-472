@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+  (function() {
+    $.fn.extend( {toObject: function() {
+        var result = {}
+        var test = [{name: 'x',value: 1}, {name: 'y', value: 1}];
+        $.each(test, function(i, v) {result[v.name] = v.value; });
+        return result;
+      } )();
+</script>
+
+</body>
+</html>
